@@ -278,6 +278,7 @@ header {
   font-size: 1.1rem;
   font-weight: 400;
   color: var(--main-color);
+  margin: 0.2rem 0 0 0.5rem;
 }
 
 .services-container .box p span {
